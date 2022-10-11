@@ -1,5 +1,3 @@
-const main = () => {};
-
-// function main() {
-//     //
-// }
+function main() {
+    //
+}
